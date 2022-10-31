@@ -1,2 +1,4 @@
 # React-PickColor
-Created with CodeSandbox
+React Exercise - A PickColor selecter
+
+
